@@ -1,0 +1,16 @@
+body,html {
+    font-family:  Verdana,sans-serif;
+    font-size: 12px;
+  }
+  .fold-end {
+    display:none
+  }
+  .container span.fold a.fold-link span.fold-start   {
+    background: #a4c801;
+    border-radius: 0 0 10px 10px;
+     outline: 2px solid #0004;
+    padding: 0 20px
+  }
+  span.fold-end-scroll {
+    display: none;
+  }
